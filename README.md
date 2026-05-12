@@ -1,50 +1,14 @@
-# Welcome to your Expo app 👋
+# Mobile Hopeline App by copter
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## โปรเจ็ก App Hopeline หน้า login (UI)
+<kbd>
+<img width="250" alt="Screenshot_20260513_013735_Expo Go" src="https://github.com/user-attachments/assets/705f08f8-162c-4fec-b289-76a26f6dfe61" />
+</kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="250" alt="Screenshot_20260513_013724_Expo Go" src="https://github.com/user-attachments/assets/4be67c95-5d0f-4671-9f9b-813dab34c3f7" />
+</kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="250" alt="Screenshot_20260513_013728_Expo Go" src="https://github.com/user-attachments/assets/d26ea0e1-2c40-4f02-909e-01a7c6a8dc6b" />
+</kbd>
